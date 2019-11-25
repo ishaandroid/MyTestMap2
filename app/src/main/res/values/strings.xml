@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTestMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+
+    <string name="fragment_map__search">Search...</string>
+    <string name="google_maps_api_key">AIzaSyDkOoHgsa0H3hvWWeS7npdR-084HzcF7tY</string>
+    <string name="place_api_key">AIzaSyDkOoHgsa0H3hvWWeS7npdR-084HzcF7tY</string>
+
+
+</resources>
